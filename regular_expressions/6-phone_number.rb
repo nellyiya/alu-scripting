@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-# Task 6
+# Task six
 puts ARGV[0].scan(/^\d{10}$/).join
