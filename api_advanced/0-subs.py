@@ -14,18 +14,3 @@ def number_of_subscribers(subreddit):
         if data:
             return data.get('subscribers', 0)
     return 0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
